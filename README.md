@@ -73,9 +73,6 @@ Resume PDF.
 - Microsoft 365 training  
 - Any other available certificates  
 
-## Transcripts  
-👉 Upload PDFs if required and link them here.
-
 ---
 
 ## Acknowledgements
