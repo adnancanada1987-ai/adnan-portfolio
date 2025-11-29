@@ -27,9 +27,9 @@ I enjoy solving technical problems, learning new tools, and creating clear docum
 ---
 
 ## 📄 Resume (PDF Download)
-👉 Upload your resume PDF to this repository and replace the link below.
+Resume PDF.
 
-**[Click here to download my Resume](YOUR-RESUME-LINK-HERE)**
+**https://github.com/adnancanada1987-ai/adnan-portfolio/blob/main/Name%20Adnan%20Iqbal%20Student%20ID%20101634590%20Resume.pdf**
 
 ---
 
