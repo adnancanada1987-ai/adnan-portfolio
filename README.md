@@ -84,8 +84,8 @@ I would like to thank my instructors and mentors for supporting my learning jour
 ---
 
 # 🔹 Contact
-📧 Email: adnaniqbal@example.com  
-(replace with your preferred email)
+📧 Email: adnancanada1987@gmail.com  
+
 
 ---
 
